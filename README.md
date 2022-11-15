@@ -1,2 +1,2 @@
 # live_jcritics
-The real Website
+The jcritics on live server
